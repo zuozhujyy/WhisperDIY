@@ -1,4 +1,4 @@
--U openai-whisper
+openai-whisper
 numba
 numpy
 torch
